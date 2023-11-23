@@ -1,4 +1,4 @@
 #!/bin/sh
-hello
+echo hello
 sleep 1000000000
 
